@@ -2,7 +2,7 @@
 # Gabriellecarv
 ### Olá 👋
 
-<b>Sou aluna do Curso Tecnico de Informatica</b> com foco em Informática e Desenvolvimento WEB na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/)</b>.
+<b>Sou aluna do Curso Tecnico de Informatica</b> com foco em Informática e Desenvolvimento WEB na <b>[ SESI SENAI - Rinaldo Campos Soares](https://www.fiemg.com.br/senai/)</b>.
 
 # Unidades curriculares
 ### Concluídas
