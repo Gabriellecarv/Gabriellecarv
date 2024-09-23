@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Gabriellecarv/Gabriellecarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gabriellecarv
+### Olá 👋
 
-Here are some ideas to get you started:
+<b>Sou aluna do Curso Tecnico de Informatica</b> com foco em Informática e Desenvolvimento WEB na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/)</b>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Unidades curriculares
+### Concluídas
+- [x] Informatica Aplicada
+- [x] Fundamentos da Tecnoligia da Informação
+- [x] Comunicação e Redação Técnica
+- [x] Logica de Programação
+
+### Em progresso
+- [ ] Interface Web
+- [ ] Programação Client-Side
+- [ ] Teste de Front-End
+- [ ] Projeto de Inovação - Design de Thinking e Canvas
+- [ ] Banco de Dados
+- [ ] Desenvolvimento de Sistemas Web
+- [ ] Teste de Back-End
+- [ ] Implantação de Sistema Web
+- [ ] Projeto de Inovação: Mndset Empreendedor e Prototipação
+- [ ] Projeto de Inovação: Trabalho de conclusão do curso 
+
