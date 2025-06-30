@@ -10,10 +10,10 @@
 - [x] Fundamentos da Tecnoligia da Informação
 - [x] Comunicação e Redação Técnica
 - [x] Logica de Programação
-
-### Em progresso
 - [x] Interface Web
 - [x] Programação Client-Side
+
+### Em progresso
 - [ ] Teste de Front-End
 - [ ] Projeto de Inovação - Design de Thinking e Canvas
 - [ ] Banco de Dados
