@@ -12,8 +12,8 @@
 - [x] Logica de Programação
 
 ### Em progresso
-- [ ] Interface Web
-- [ ] Programação Client-Side
+- [x] Interface Web
+- [x] Programação Client-Side
 - [ ] Teste de Front-End
 - [ ] Projeto de Inovação - Design de Thinking e Canvas
 - [ ] Banco de Dados
