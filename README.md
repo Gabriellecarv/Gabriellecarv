@@ -14,7 +14,7 @@
 - [x] Programação Client-Side
 
 ### Em progresso
-- [ ] Teste de Front-End
+- [x] Teste de Front-End
 - [ ] Projeto de Inovação - Design de Thinking e Canvas
 - [ ] Banco de Dados
 - [ ] Desenvolvimento de Sistemas Web
