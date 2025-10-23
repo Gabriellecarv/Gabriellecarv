@@ -18,6 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
+
 ## 📈 Minhas Estatísticas do GitHub
 <hr>
 
@@ -25,7 +26,7 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriellecarv&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellecarv&layout=compact&theme=tokyonight&hide_border=false" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Gabriellecarv&theme=tokyonight&hide_border=false" />
+ 
 
 </div>
 
