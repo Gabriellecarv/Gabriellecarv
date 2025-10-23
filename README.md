@@ -1,6 +1,5 @@
 
-# Gabriellecarv
-### Olá 👋
+# Olá, eu sou a Gabrielle!
 
 <b>Sou aluna do Curso Tecnico de Informatica</b> com foco em Informática e Desenvolvimento WEB na <b>[ SESI SENAI - Rinaldo Campos Soares](https://www.fiemg.com.br/senai/)</b>.
 
